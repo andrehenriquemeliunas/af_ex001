@@ -23,4 +23,5 @@ Média alunos com vetor
     FIM
 
 ## Fluxograma
+<img src="teste.jpg" alt="">
 
