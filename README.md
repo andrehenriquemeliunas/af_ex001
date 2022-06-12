@@ -60,7 +60,6 @@ Média de alunos com vetor
         SE vet[5] < Média, FAÇA
             ESCREVA('Sala 6'<
         FIM SE
-
     FIM
 
 ## Fluxograma
