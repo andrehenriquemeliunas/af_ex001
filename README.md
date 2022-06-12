@@ -63,4 +63,4 @@ Média de alunos com vetor
     FIM
 
 ## Fluxograma
-<img src="teste.jpg" alt="">
+<img src="fluxo_ex1b.jpeg" alt="">
