@@ -1,5 +1,5 @@
 # Exercício 1B da AF
-Média alunos com vetor
+Média de alunos com vetor 
 
 ## Algoritmo do Exercício
 
@@ -24,4 +24,3 @@ Média alunos com vetor
 
 ## Fluxograma
 <img src="teste.jpg" alt="">
-
